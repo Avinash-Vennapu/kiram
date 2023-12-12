@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kiram/static/css/main.868537c2.css",
+    "main.js": "/kiram/static/js/main.af4b1716.js",
+    "index.html": "/kiram/index.html",
+    "main.868537c2.css.map": "/kiram/static/css/main.868537c2.css.map",
+    "main.af4b1716.js.map": "/kiram/static/js/main.af4b1716.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.868537c2.css",
+    "static/js/main.af4b1716.js"
+  ]
+}
