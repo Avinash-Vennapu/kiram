@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kiram/static/css/main.868537c2.css",
-    "main.js": "/kiram/static/js/main.af4b1716.js",
-    "index.html": "/kiram/index.html",
-    "main.868537c2.css.map": "/kiram/static/css/main.868537c2.css.map",
-    "main.af4b1716.js.map": "/kiram/static/js/main.af4b1716.js.map"
+    "main.css": "/avinash_upload/static/css/main.baa78dc5.css",
+    "main.js": "/avinash_upload/static/js/main.358ab981.js",
+    "index.html": "/avinash_upload/index.html",
+    "main.baa78dc5.css.map": "/avinash_upload/static/css/main.baa78dc5.css.map",
+    "main.358ab981.js.map": "/avinash_upload/static/js/main.358ab981.js.map"
   },
   "entrypoints": [
-    "static/css/main.868537c2.css",
-    "static/js/main.af4b1716.js"
+    "static/css/main.baa78dc5.css",
+    "static/js/main.358ab981.js"
   ]
 }
